@@ -44,4 +44,4 @@ const matrix8 =[
     [-11, 7]
 ];
 
-console.log(matrixUtil.sumOfEachRow(matrix6));
+console.log(matrixUtil.sumOfMatrices(matrix1,matrix2));
